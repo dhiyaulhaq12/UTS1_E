@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class No3 {
+public class JawabanNo3 {
     public class Cek {
 
 
